@@ -1,5 +1,5 @@
 {
-  "name": "mmath.js",
+  "name": "mmath",
   "version": "0.0.0",
   "description": "a small library for linear algebra",
   "main": "index.js",
