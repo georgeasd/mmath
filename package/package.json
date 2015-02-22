@@ -1,0 +1,33 @@
+{
+  "name": "mmath",
+  "version": "0.0.1",
+  "description": "a small library for linear algebra",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^4.3.5",
+    "reglob": "0.0.0"
+  },
+  "devDependencies": {
+    "babel": "^4.0.1",
+    "babelify": "^5.0.3",
+    "mocha": "^2.1.0",
+    "reglob": "0.0.0",
+    "reglobify": "0.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolodny/mmath.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolodny/mmath/issues"
+  },
+  "homepage": "https://github.com/kolodny/mmath"
+}

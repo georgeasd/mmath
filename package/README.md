@@ -16,18 +16,6 @@ var matrix = new mmath.Matrix([
   [4,5,6],
   [7,8,9]
 ]);
-```
 
-API:
-
-`Matrix#add(sameDimsMatrix)`
-
-`Matrix#determinant()`
-
-`Matrix#get(i, j)`
-
-`Matrix#multiply(otherMatrix)`
-
-`Matrix#scalar(number)`
-
-`Matrix#tranpose()`
+var determinant = matrix.determinant();
+var transposed = matrix.transpose();
