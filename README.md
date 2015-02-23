@@ -31,3 +31,9 @@ API:
 `Matrix#scalar(number)`
 
 `Matrix#tranpose()`
+
+`Matrix#inverse()`
+
+`Matrix#adjugate()`
+
+`Matrix#cofactor(i, j)`
